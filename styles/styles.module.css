@@ -1,0 +1,23 @@
+.main {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  padding: 50px;
+}
+
+.counterButton {
+  font-weight: bold;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+.counterButton:hover {
+  color: rgb(7 89 133);
+  cursor: pointer;
+}
+
+.counter {
+  color: rgb(7 89 133);
+}
